@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1000&color=F7094B&background=58FF0C00&vCenter=true&random=true&width=500&lines=Hey%2C%20I%20am%20Lucas%20Galv%C3%A3o)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1000&color=F7094B&background=58FF0C00&vCenter=true&random=true&width=500&lines=Welcome%20to%20my%20Profile)](https://git.io/typing-svg)
 
-![Banner](https://imgur.com/DisUeNX.png)
-
 ## 💬 You can find me on
 
 [![Blog](https://img.shields.io/website?label=My%20Portfolio%20Website&style=for-the-badge&url=https://lucascerqueiragalvao.github.io/Site-Portifolio/)](https://lucascerqueiragalvao.github.io/Site-Portifolio/)
