@@ -37,20 +37,21 @@
 </div>
 
 <!-- Estatísticas do GitHub e Principais Linguagens -->
-<div style="display: flex; justify-content: space-between;">
-  <img width: 50% src="https://github-readme-stats.vercel.app/api?username=LucasCerqueiraGalvao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width: 50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCerqueiraGalvao&layout=compact&langs_count=7&theme=dracula"/>
+<div style="display: flex; justify-content: space-between; width: 100%;">
+  <img style="width: 50%;" src="https://github-readme-stats.vercel.app/api?username=LucasCerqueiraGalvao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img style="width: 50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCerqueiraGalvao&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <!-- Sequência de Commits e Detalhes do Perfil -->
-<div style="display: flex; justify-content: space-between;">
-  <img  width: 50% src="https://github-readme-streak-stats.herokuapp.com/?user=LucasCerqueiraGalvao&theme=dracula&ring=e73737&currStreakNum=ffffff&hide_border=true"/>
-  <img  width: 50% src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasCerqueiraGalvao&theme=dracula"/>
+<div style="display: flex; justify-content: space-between; width: 100%;">
+  <img style="width: 50%;" src="https://github-readme-streak-stats.herokuapp.com/?user=LucasCerqueiraGalvao&theme=dracula&ring=e73737&currStreakNum=ffffff&hide_border=true"/>
+  <img style="width: 50%;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasCerqueiraGalvao&theme=dracula"/>
 </div>
 
 <!-- Troféus -->
-<div style="display: flex; justify-content: space-between;">
-  <img width: 50% height="90em" src="https://github-profile-trophy.vercel.app/?username=LucasCerqueiraGalvao&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
-  <img width: 50% height="90em" src="https://github-profile-trophy.vercel.app/?username=LucasCerqueiraGalvao&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+<div style="display: flex; justify-content: space-between; width: 100%;">
+  <img style="width: 100%; height: 90em;" src="https://github-profile-trophy.vercel.app/?username=LucasCerqueiraGalvao&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+  
 </div>
+
 
