@@ -41,10 +41,10 @@
 <!-- Estatísticas do GitHub e Principais Linguagens -->
 <div style="display: flex; justify-content: space-between; width: 100%; gap: 10px;">
   <div style="width: 40%;">
-    <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api?username=LucasCerqueiraGalvao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=LucasCerqueiraGalvao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </div>
   <div style="width: 40%;">
-    <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCerqueiraGalvao&layout=compact&langs_count=7&theme=dracula"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCerqueiraGalvao&layout=compact&langs_count=7&theme=dracula"/>
   </div>
 </div>
 
@@ -53,10 +53,10 @@
 <!-- Sequência de Commits e Detalhes do Perfil -->
 <div style="display: flex; justify-content: space-between; width: 100%; gap: 10px;">
   <div style="width: 30%;">
-    <img style="width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=LucasCerqueiraGalvao&theme=dracula&ring=e73737&currStreakNum=ffffff&hide_border=true"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasCerqueiraGalvao&theme=dracula&ring=e73737&currStreakNum=ffffff&hide_border=true"/>
   </div>
   <div style="width: 60%;">
-    <img style="width: 100%;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasCerqueiraGalvao&theme=dracula"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasCerqueiraGalvao&theme=dracula"/>
   </div>
 </div>
 
@@ -66,6 +66,5 @@
 <div style="display: flex; justify-content: center; width: 100%;">
   <img style="width: 100%;" src="https://github-profile-trophy.vercel.app/?username=LucasCerqueiraGalvao&theme=dracula&margin-w=15&margin-h=15"/>
 </div>
-
 
 
