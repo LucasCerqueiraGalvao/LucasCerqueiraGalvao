@@ -1,5 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1000&color=F7094B&background=58FF0C00&vCenter=true&random=true&width=500&lines=Hey%2C%20I%20am%20Lucas%20Galv%C3%A3o)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1000&color=F7094B&background=58FF0C00&vCenter=true&random=true&width=500&lines=Welcome%20to%20my%20Profile)](https://git.io/typing-svg)
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=My+name+is+Lucas+Galvão;Welcome+to+my+profile!;Have+a+great+day!&font=Fira%20Code&color=%23D62F79&center=true&width=420&height=55&size=30&pause=1000&duration=2000">
+</p>
+
 
 ## 💬 You can find me on
 
