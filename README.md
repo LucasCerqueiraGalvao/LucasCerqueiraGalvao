@@ -33,39 +33,15 @@
 
 <!-- Gráfico de Atividades -->
 <div style="display: flex; justify-content: center; width: 100%;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasCerqueiraGalvao&theme=dracula"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasCerqueiraGalvao&theme=dracula&"/>
 </div>
 
 <hr>
 
 <!-- Estatísticas do GitHub e Principais Linguagens -->
-<div style="display: flex; justify-content: space-between; width: 100%; gap: 2px;">
-  <div style="width: 54%; display: flex; align-items: stretch;">
-    <img src="https://github-readme-stats.vercel.app/api?username=LucasCerqueiraGalvao&show_icons=true&theme=dracula" style="flex: 1; object-fit: cover;"/>
-  </div>
-  <div style="width: 45%; display: flex; align-items: stretch;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCerqueiraGalvao&layout=compact&langs_count=7&theme=dracula" style="flex: 1; object-fit: cover;"/>
-  </div>
-</div>
-
-<hr>
-
-<!-- Sequência de Commits e Detalhes do Perfil -->
-<div style="display: flex; justify-content: space-between; width: 100%; gap: 2px;">
-  <div style="width: 42%; display: flex; align-items: stretch;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasCerqueiraGalvao&theme=dracula&ring=e73737&currStreakNum=ffffff" style="flex: 1; object-fit: cover;"/>
-  </div>
-  <div style="width: 57%; display: flex; align-items: stretch;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasCerqueiraGalvao&theme=dracula" style="flex: 1; object-fit: cover;"/>
-  </div>
-</div>
-
-<hr>
-
-<!-- Troféus -->
-<div style="display: flex; justify-content: center; width: 100%;">
-  <img style="width: 100%;" src="https://github-profile-trophy.vercel.app/?username=LucasCerqueiraGalvao&theme=dracula&margin-w=15&margin-h=15"/>
-</div>
+| ![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCerqueiraGalvao&layout=compact&theme=dracula&card_width=0&hide_border=true) | ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasCerqueiraGalvao&include=private&theme=dracula&show_icons=true&hide_border=true&line_height=20&PAT_1&rank_icon=github) |
+| ----------- | ----------- |
+| ![GitHub Commits](https://github-readme-streak-stats.herokuapp.com/?user=LucasCerqueiraGalvao&theme=dracula&ring=e73737&currStreakNum=ffffff&hide_border=true) | ![GitHub Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasCerqueiraGalvao&theme=dracula) |
 
 <hr>
 
