@@ -32,13 +32,25 @@
 
 ## 📈 Statistics
 
-![Lucas Galvao github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LucasCerqueiraGalvao&theme=rose)
+<!-- Gráfico de Atividades -->
+<div style="display: flex; justify-content: center; width: 100%;">
+  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=LucasCerqueiraGalvao&theme=dracula"/>
+</div>
 
-| ![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCerqueiraGalvao&layout=compact&theme=radical) | ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasCerqueiraGalvao&show_icons=true&theme=radical&hide_border=true&line_height=20) |
-| ----------- | ----------- |
-| ![GitHub Commits](https://github-readme-streak-stats.herokuapp.com/?user=LucasCerqueiraGalvao&theme=radical&ring=e73737&currStreakNum=ffffff&hide_border=true) | ![GitHub Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasCerqueiraGalvao&theme=radical) |
-| ![Trophies](https://github-profile-trophy.vercel.app/?username=LucasCerqueiraGalvao&row=1&column=6&theme=radical&margin-w=15&margin-h=15) | ![Trophies](https://github-profile-trophy.vercel.app/?username=LucasCerqueiraGalvao&row=1&column=6&theme=radical&margin-w=15&margin-h=15) |
+<!-- Estatísticas do GitHub e Principais Linguagens -->
+<div style="display: flex; justify-content: space-between; width: 100%;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasCerqueiraGalvao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCerqueiraGalvao&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
+<!-- Sequência de Commits e Detalhes do Perfil -->
+<div style="display: flex; justify-content: space-between; width: 100%;">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LucasCerqueiraGalvao&theme=dracula&ring=e73737&currStreakNum=ffffff&hide_border=true"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasCerqueiraGalvao&theme=dracula"/>
+</div>
 
-
----
+<!-- Troféus -->
+<div style="display: flex; justify-content: space-between; width: 100%;">
+  <img height="90em" src="https://github-profile-trophy.vercel.app/?username=LucasCerqueiraGalvao&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+  <img height="90em" src="https://github-profile-trophy.vercel.app/?username=LucasCerqueiraGalvao&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+</div>
