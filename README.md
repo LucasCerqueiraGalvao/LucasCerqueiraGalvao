@@ -32,7 +32,7 @@
 
 ## 📈 Statistics
 
-[![Lucas Galvao github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LucasCerqueiraGalvao&theme=radical)
+![Lucas Galvao github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LucasCerqueiraGalvao&theme=radical)
 
 | ![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCerqueiraGalvao&layout=compact&theme=radical) | ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasCerqueiraGalvao&show_icons=true&theme=radical&hide_border=true&line_height=20) |
 | ----------- | ----------- |
