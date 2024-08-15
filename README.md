@@ -42,7 +42,7 @@
 <hr>
 
 <!-- Estatísticas do GitHub e Principais Linguagens -->
-| ![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCerqueiraGalvao&exclude_repo=xxxxxxxxxxxxxxx&size_weight=0.5&count_weight=0.5&layout=compact&theme=dracula&card_width=0&hide_border=true) | ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasCerqueiraGalvao&include=private&theme=dracula&show_icons=true&hide_border=true&line_height=20&PAT_1&rank_icon=github) |
+| ![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCerqueiraGalvao&exclude_repo=Faculdade_4_Semestre&size_weight=0.5&count_weight=0.5&layout=compact&theme=dracula&card_width=0&hide_border=true) | ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasCerqueiraGalvao&include=private&theme=dracula&show_icons=true&hide_border=true&line_height=20&PAT_1&rank_icon=github) |
 | ----------- | ----------- |
 | ![GitHub Commits](https://github-readme-streak-stats.herokuapp.com/?user=LucasCerqueiraGalvao&theme=dracula&ring=e73737&currStreakNum=ffffff&hide_border=true) | ![GitHub Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasCerqueiraGalvao&theme=dracula) |
 
