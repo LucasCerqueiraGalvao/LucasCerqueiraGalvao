@@ -1,11 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Lucas+Cerqueira+Galv%C3%A3o;Data+Scientist+%7C+Analytics+Engineer&font=Fira%20Code&center=true&width=1200&height=90&color=B11226&pause=1200&duration=2200&size=50" alt="Typing header" />
   <br />
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Engineering+Complex+Data+Into+Clear+Decisions&font=Fira%20Code&center=true&width=1200&height=70&color=B11226&pause=1200&duration=2200&size=40" alt="Typing slogan" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Data%20Scientist%20%7C%20Analytics%20Engineer-B11226?style=for-the-badge" alt="Role badge" />
+  <img src="https://img.shields.io/badge/Engineering%20Complex%20Data%20Into%20Clear%20Decisions-B11226?style=for-the-badge" alt="Slogan" />
 </p>
 
 ## Contact
