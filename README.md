@@ -15,12 +15,22 @@
 ## Current Stack
 
 ### Data Engineering and Warehousing
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-1A73E8?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-0B5C84?style=for-the-badge&logo=mysql&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=gcp,aws,postgres,mysql&perline=8)](https://skillicons.dev)
+
+<p>
+  <img src="https://api.iconify.design/simple-icons:googlebigquery.svg?color=%234285F4" alt="BigQuery" width="50" height="50" />
+  <img src="https://api.iconify.design/simple-icons:amazonredshift.svg?color=%238C4FFF" alt="Amazon Redshift" width="50" height="50" />
+  <img src="https://api.iconify.design/simple-icons:docker.svg?color=%232496ED" alt="Docker" width="50" height="50" />
+</p>
+
+### Analytics and BI
+<p>
+  <img src="https://api.iconify.design/simple-icons:looker.svg?color=%234285F4" alt="Looker" width="50" height="50" />
+  <img src="https://api.iconify.design/simple-icons:powerbi.svg?color=%23F2C811" alt="Power BI" width="50" height="50" />
+  <img src="https://hex.tech/favicon.svg" alt="Hex" width="50" height="50" />
+  <img src="https://api.iconify.design/simple-icons:salesforce.svg?color=%2300A1E0" alt="Salesforce" width="50" height="50" />
+  <img src="https://api.iconify.design/simple-icons:hubspot.svg?color=%23FF7A59" alt="HubSpot" width="50" height="50" />
+</p>
 
 ### Data Science and Automation
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -28,40 +38,24 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Tesseract OCR](https://img.shields.io/badge/Tesseract%20OCR-5A5A5A?style=for-the-badge&logo=tesseract&logoColor=white)
-![PyMuPDF](https://img.shields.io/badge/PyMuPDF-0F172A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
-
-### Analytics and BI
-![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111)
-![Hex](https://img.shields.io/badge/Hex-0F172A?style=for-the-badge)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
 
 ## AI Focus
 
 ### Agentic AI and Applied AI
-![Codex CLI](https://img.shields.io/badge/Codex%20CLI-111827?style=for-the-badge)
-![Agent Configuration](https://img.shields.io/badge/Agent%20Configuration-334155?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-7C3AED?style=for-the-badge)
-![Context Management](https://img.shields.io/badge/Context%20Management-2563EB?style=for-the-badge)
-![Audio Transcription](https://img.shields.io/badge/Audio%20Transcription-0D9488?style=for-the-badge)
-![OCR and LLM Extraction](https://img.shields.io/badge/OCR%20%2B%20LLM%20Extraction-F97316?style=for-the-badge)
-![Fail-Fast Strategy](https://img.shields.io/badge/Fail--Fast%20Strategy-DC2626?style=for-the-badge)
+![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic API](https://img.shields.io/badge/Anthropic%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-0F172A?style=for-the-badge&logo=langgraph&logoColor=white)
 
-### ML Algorithms and Modeling
-![LSTM](https://img.shields.io/badge/LSTM-B11226?style=for-the-badge)
-![GRU](https://img.shields.io/badge/GRU-4338CA?style=for-the-badge)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=for-the-badge)
-![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-16A34A?style=for-the-badge)
-![Time Series Forecasting](https://img.shields.io/badge/Time%20Series%20Forecasting-0EA5E9?style=for-the-badge)
-![Model Comparison](https://img.shields.io/badge/Model%20Comparison-A855F7?style=for-the-badge)
+### ML/DL Algorithms and Modeling
+![Transformer](https://img.shields.io/badge/Transformer-B11226?style=for-the-badge)
+![XGBoost](https://img.shields.io/badge/XGBoost-A1112F?style=for-the-badge)
+![LightGBM](https://img.shields.io/badge/LightGBM-9A1A3A?style=for-the-badge)
+![CatBoost](https://img.shields.io/badge/CatBoost-8C1534?style=for-the-badge)
+![CNN](https://img.shields.io/badge/CNN-8B1E3F?style=for-the-badge)
 
 ## What I Deliver
 
