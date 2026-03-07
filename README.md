@@ -6,7 +6,7 @@
 
 ## Contact
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-DC2626?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lucascerqueiragalvao.github.io/site-portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-DC2626?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lucascerqueiragalvao.github.io/personal-portfolio/home)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucasCerqueiraGalvao)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Cerqueira%20Galvao-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-cerqueira-galvao)
 [![Instagram](https://img.shields.io/badge/Instagram-lucasgalvao.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasgalvao.dev/)
