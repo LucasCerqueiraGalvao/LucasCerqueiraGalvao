@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Lucas+Cerqueira+Galv%C3%A3o;Data+Scientist+%7C+Analytics+Engineer&font=Fira%20Code&center=true&width=1200&height=90&color=B11226&pause=1200&duration=2200&size=50" alt="Typing header" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Lucas+Cerqueira+Galv%C3%A3o;Data+Engineer+and+Analyst&font=Fira%20Code&center=true&width=1200&height=90&color=B11226&pause=1200&duration=2200&size=50" alt="Typing header" />
   <br />
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Engineering+Complex+Data+Into+Clear+Decisions&font=Fira%20Code&center=true&width=1200&height=70&color=B11226&pause=1000000&duration=1&size=40&repeat=false" alt="Slogan" />
 </p>
