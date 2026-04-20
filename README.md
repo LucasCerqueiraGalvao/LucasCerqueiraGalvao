@@ -17,20 +17,10 @@
 ### Data Engineering and Warehousing
 [![My Skills](https://skillicons.dev/icons?i=gcp,aws,postgres,mysql&perline=8)](https://skillicons.dev)
 
-<p>
-  <img src="https://api.iconify.design/simple-icons:googlebigquery.svg?color=%234285F4" alt="BigQuery" width="50" height="50" />
-  <img src="https://api.iconify.design/simple-icons:amazonredshift.svg?color=%238C4FFF" alt="Amazon Redshift" width="50" height="50" />
-  <img src="https://api.iconify.design/simple-icons:docker.svg?color=%232496ED" alt="Docker" width="50" height="50" />
-</p>
+<p align="left"><img src="https://api.iconify.design/simple-icons:googlebigquery.svg?color=%234285F4" alt="BigQuery" width="50" height="50" />&nbsp;<img src="https://api.iconify.design/simple-icons:amazonredshift.svg?color=%238C4FFF" alt="Amazon Redshift" width="50" height="50" />&nbsp;<img src="https://api.iconify.design/simple-icons:docker.svg?color=%232496ED" alt="Docker" width="50" height="50" /></p>
 
 ### Analytics and BI
-<p>
-  <img src="https://api.iconify.design/simple-icons:looker.svg?color=%234285F4" alt="Looker" width="50" height="50" />
-  <img src="https://api.iconify.design/simple-icons:powerbi.svg?color=%23F2C811" alt="Power BI" width="50" height="50" />
-  <img src="https://hex.tech/favicon.svg" alt="Hex" width="50" height="50" />
-  <img src="https://api.iconify.design/simple-icons:salesforce.svg?color=%2300A1E0" alt="Salesforce" width="50" height="50" />
-  <img src="https://api.iconify.design/simple-icons:hubspot.svg?color=%23FF7A59" alt="HubSpot" width="50" height="50" />
-</p>
+<p align="left"><img src="https://api.iconify.design/simple-icons:looker.svg?color=%234285F4" alt="Looker" width="50" height="50" />&nbsp;<img src="https://api.iconify.design/simple-icons:powerbi.svg?color=%23F2C811" alt="Power BI" width="50" height="50" />&nbsp;<img src="https://hex.tech/favicon.svg" alt="Hex" width="50" height="50" />&nbsp;<img src="https://api.iconify.design/simple-icons:salesforce.svg?color=%2300A1E0" alt="Salesforce" width="50" height="50" />&nbsp;<img src="https://api.iconify.design/simple-icons:hubspot.svg?color=%23FF7A59" alt="HubSpot" width="50" height="50" /></p>
 
 ### Data Science and Automation
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
